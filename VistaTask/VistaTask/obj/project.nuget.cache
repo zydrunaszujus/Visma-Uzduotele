@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CIBhK+KsCvb5FJ3Evmtv5DweWE7UIxolkrwrH0trja/zKISC6QKk2AKL+/+UcEINAYvjlgZ6by4bIYQ60cUM5Q==",
+  "dgSpecHash": "2p0p5sbc+5nXrEFOr4eK/pLJZhJhd5IBTZdZII6VsqLj0GAJMWM6WnM6+bj/TapjQ1+N/mEuKh84huvT7I0mGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zydru\\Documents\\GitHub\\Visma-Uzduotele\\VistaTask\\VistaTask\\VismaTask.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zydru\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\zydru\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\zydru\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
   ],
   "logs": []
 }

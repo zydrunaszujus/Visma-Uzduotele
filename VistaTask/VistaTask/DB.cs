@@ -28,3 +28,4 @@ namespace VismaTask
         }//DeSerializeObject- vercia tekstai objekta
     }
 }
+//BCrypt.Net-Next   padeda nenulauzti slaptazodzio
